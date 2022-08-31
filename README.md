@@ -1,2 +1,2 @@
 # rfc-stylish-dracula-theme
-The Dracula based theme from VS Code extension to be used on Stylish.
+Based on Dracula theme from VS Code extension, this is the theme to be used on https://www.rfc-editor.org/rfc/ context.
